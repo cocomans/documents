@@ -33,7 +33,7 @@ Unpublished, internal manuscripts that have been approved for public release.
 2012
 ----
 
-* [Co-Design Experiences with the CoCoMANS Materials Mini-APP and the Intel MIC](https://github.com/downloads/cocomans/documents/mic-codesign-1.pdf) [PDF], 
+* [Co-Design Experiences with the CoCoMANS Materials Mini-App and the Intel MIC](https://github.com/downloads/cocomans/documents/mic-codesign-1.pdf) [PDF], 
 Scott Pakin,  Los Alamos National Laboratory,  Sept. 26, 2012 (LA-UR-12-24932).
 
  A brief overview of the the co-design interaction between Los Alamos and Intel
