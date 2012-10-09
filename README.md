@@ -18,7 +18,7 @@ as partof our required mid-project review.  The
 review was held in Los Alamos, New Mexico, October 11, 2012.
 
 * [CoCoMANS: Co-Design Process](https://github.com/downloads/cocomans/documents/co-design-process.pdf) [PDF], 
-Allen McPherson, Dana Knoll, and the CoCoMANS Team,  Los Alamos National Laboratory (LA-UR-12-xxxxxx).
+Allen McPherson, Dana Knoll, and the CoCoMANS Team,  Los Alamos National Laboratory (LA-UR-12-25337).
 
  This talk presents the details of the co-design process in use for the CoCoMANS projetc. We discuss
  project goals, definitation and use of proxy applications, documentation, software development
